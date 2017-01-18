@@ -1,0 +1,8 @@
+{
+  "config" : {
+    "backupPath" : "", //Full path for the back-ups
+    "frequency" : "daily", //daily, weekly, monthly
+    "startAt"   : "16:30",
+    "email"     : "" //Notifications
+  }
+}
